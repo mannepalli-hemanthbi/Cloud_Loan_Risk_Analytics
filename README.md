@@ -164,19 +164,19 @@ Kaggle Dataset → AWS S3 → Snowflake → Data Cleaning \& EDA → Power BI Da
 
 \### Customer Demographics
 
-!\[Demographics](images/Demographics.png)
+!\[Demographics](images/demographics.png)
 
 
 
 \### Loan Approval Analysis
 
-!\[Loan Approval](images/Loan\_approval.png)
+!\[Loan Approval](images/loan\_approval.png)
 
 
 
 \### Financial Risk Analysis
 
-!\[Risk Analysis](images/Risk\_analysis.png)
+!\[Risk Analysis](images/risk\_analysis.png)
 
 
 
